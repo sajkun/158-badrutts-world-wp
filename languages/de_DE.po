@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Summer"
+msgstr "Sommer"
+
+msgid "Explore Summer"
+msgstr "Sommer erkunden"
+
+msgid "Winter"
+msgstr "Winter"
+
+msgid "Season"
+msgstr "Saison"
+
+msgid "Season not set"
+msgstr "Saison nicht definiert"
+
+msgid "winter"
+msgstr "Winter"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Quarterly Updates"
+msgstr "Vierteljährliche Aktualisierungen"
+
+msgid "Search for"
+msgstr "Suche nach"
+
+msgid "both"
+msgstr "beidem"
+
+msgid "Filter by season"
+msgstr "Nach Saison filtern"
+
+msgid "Explore Winter"
+msgstr "Winter erkunden"
+
+msgid "Visit our Careers section"
+msgstr "Besuchen Sie unseren Karrierebereich"
+
+msgid "Logo for Mobiles"
+msgstr "Logo für Mobiltelefone"
+
+msgid "Theme Header"
+msgstr "Themenüberschrift"
+
+msgid "This section is designed to change displaying of header settings"
+msgstr "Dieser Bereich dient dazu, die Anzeige der Überschrifteinstellungen zu ändern"
+
+msgid "Url for book button in header"
+msgstr "URL für Buchungs-Schaltfläche in der Überschrift"
+
+msgid "Keep empty to hide this item"
+msgstr "Leer lassen, um dieses Objekt zu verbergen"
+
+msgid "DEPRECATED! for old instances of code, don't use"
+msgstr "VERALTET! für alte Code-Exemplare, nicht verwenden"
+
+msgid "Book"
+msgstr "Buchen"
+
+msgid "Url for summer instance of this site"
+msgstr "URL für Sommer-Exemplar dieser Seite"
+
+msgid "Url for winter instance of this site"
+msgstr "URL für Winter-Exemplar dieser Seite"
+
+msgid "Explore summer"
+msgstr "Sommer erkunden"
+
+msgid "Explore winter"
+msgstr "Winter erkunden"
+
+msgid "Main Menu (summer)"
+msgstr "Hauptmenü (Sommer)"
+
+msgid "Main Menu (winter)"
+msgstr "Hauptmenü (Winter)"
+
+msgid "Mobile Main Menu (winter)"
+msgstr "Mobiles Hauptmenü (Winter)"
+
+msgid "Mobile Main Menu (summer)"
+msgstr "Mobiles Hauptmenü (Sommer)"
+
+msgid "Mobile Secondary Menu (winter)"
+msgstr "Mobiles Sekundärmenü (Winter)"
+
+msgid "Mobile Secondary Menu (summer)"
+msgstr "Mobiles Sekundärmenü (Sommer)"
+
+msgid "Menu with social links"
+msgstr "Menü mit Social-Media-Links"
+
+msgid "Top Menu in Header (summer)"
+msgstr "Top-Menü in Überschrift (Sommer)"
+
+msgid "Top Menu in Header (winter)"
+msgstr "Top-Menü in Überschrift (Winter)"
+
+msgid "Home"
+msgstr "Startseite"
+
+msgid "Book Now"
+msgstr "Jetzt buchen"
+
+msgid "Theme Socials"
+msgstr "Social-Media-Themen"
+
+msgid "Social links for mobile menu and footer"
+msgstr "Social-Media-Links für mobiles Menü und Fusszeile"
+
+msgid "Logo in Footer"
+msgstr "Logo in Fusszeile"
+
+msgid "This section is designed to change displaying of footer settings"
+msgstr "Dieser Bereich dient dazu, die Anzeige der Fusszeileneinstellungen zu ändern"
+
+msgid "Theme Footer"
+msgstr "Thema Fusszeile"
+
+msgid "Language switcher"
+msgstr "Sprachwahl"
+
+msgid "Footer Widget"
+msgstr "Fusszeilen-Widget"
+
+msgid "Copyrights"
+msgstr "Copyrights"
+
+msgid "Address"
+msgstr "Anschrift"
+
+msgid "Follow us"
+msgstr "Folgen Sie uns"
+
+msgid "Legal Disclaimer Url"
+msgstr "Haftungsausschluss URL"
+
+msgid "Legal Disclaimer"
+msgstr "Haftungsausschluss"
+
+msgid "banner"
+msgstr "Banner"
+
+msgid "url"
+msgstr "URL"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "Season settings"
+msgstr "Saison-Einstellungen"
+
+msgid "Set Blogs Weather roles"
+msgstr "Einstellungen Blogs Wetter-Rollen"
+
+msgid "Save Options"
+msgstr "Optionen speichern"
+
+msgid "Winter Blog"
+msgstr "Winter-Blog"
+
+msgid "Summer Blog"
+msgstr "Sommer-Blog"
+
+msgid "Displays booking widget for rooms"
+msgstr "Zeigt Zimmerbuchungs-Widget an"
+
+msgid "Booking room widget"
+msgstr "Zimmerbuchungs-Widget"
+
+msgid "Displays a carousel with rooms images One image per slide"
+msgstr "Zeigt ein Karussell mit Abbildungen der Zimmer an Ein Bild pro Seite"
+
+msgid "Room carousel var 1"
+msgstr "Zimmerkarussell Var 1"
+
+msgid "DISCOVER THIS ROOM"
+msgstr "DIESES ZIMMER ENTDECKEN"
+
+msgid "Featured image of a section"
+msgstr "Hervorgehobenes Bild eines Bereichs"
+
+msgid "Room details"
+msgstr "Angaben zum Zimmer"
+
+msgid "Data will be displayed from metabox \"Room data\""
+msgstr "Daten werden aus der Metabox «Zimmerdaten» angezeigt"
+
+msgid "Featured Image"
+msgstr "Hervorgehobenes Bild"
+
+msgid "Number of bedrooms"
+msgstr "Anzahl Schlafzimmer"
+
+msgid "Number of bathrooms"
+msgstr "Anzahl Badezimmer"
+
+msgid "Max Guests"
+msgstr "Max Gäste"
+
+msgid "Square Feet"
+msgstr "Quadratfuss"
+
+msgid "Bedrooms"
+msgstr "Schlafzimmer"
+
+msgid "Bedroom"
+msgstr "Schlafzimmer"
+
+msgid "Bathrooms"
+msgstr "Badezimmer"
+
+msgid "Bathroom"
+msgstr "Badezimmer"
+
+msgid "Square meters"
+msgstr "Quadratmeter"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Main Hotel Item"
+msgstr "Haupt-Hotelobjekt"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Button title"
+msgstr "Schaltfläche Titel"
+
+msgid "Button url"
+msgstr "Schaltfläche URL"
+
+msgid "Leave this field empty to hide button"
+msgstr "Dieses Feld freilassen, um die Schaltfläche zu verbergen"
+
+msgid "Display type"
+msgstr "Typ anzeigen"
+
+msgid "Fullwidth image"
+msgstr "Bild mit voller Breite"
+
+msgid "Text aligned left"
+msgstr "Text linksbündig"
+
+msgid "Text aligned right"
+msgstr "Text rechtsbündig"
+
+msgid "Text below image"
+msgstr "Text unter dem Bild"
+
+msgid "Select value"
+msgstr "Wert auswählen"
+
+msgid "Additional classes"
+msgstr "Zusätzliche Klassen"
+
+msgid "Widget Id"
+msgstr "Widget-ID"
+
+msgid "Use this for multiple widgets on the same page"
+msgstr "Nutzen Sie dies für mehrere Widgets auf derselben Seite"
+
+msgid "Check Availability"
+msgstr "Verfügbarkeit prüfen"
+
+msgid "Departure"
+msgstr "Abreise"
+
+msgid "Guests"
+msgstr "Gäste"
+
+msgid "Children"
+msgstr "Kinder"
+
+msgid "Rooms"
+msgstr "Zimmer"
+
+msgid "Arrival"
+msgstr "Ankunft"
+
+msgid "Select guests"
+msgstr "Gäste auswählen"
+
+msgid "Adults"
+msgstr "Erwachsene"
+
+msgid "Childrens"
+msgstr "Kinder"
+
+msgid "Clear all"
+msgstr "Alles löschen"
+
+msgid "Promo code"
+msgstr "Aktionscode"
+
+msgid "Image Gallery"
+msgstr "Bildergalerie"
+
+msgid "Gallery Images"
+msgstr "Galeriebilder"
+
+msgid "Url for camera"
+msgstr "URL für Kamera"
+
+msgid "Page Not Found"
+msgstr "Seite nicht gefunden"
+
+msgid "It looks like you are lost"
+msgstr "Scheint so, als hätten Sie sich verirrt"
+
+msgid "let us help you find your way"
+msgstr "Wir helfen Ihnen gerne, den richtigen Weg zu finden"
+
+msgid "If you tried to access this page through bookmarks, please remove or correct the corresponding entry"
+msgstr "Falls Sie versucht haben, diese Seite über Lesezeichen aufzurufen, entfernen oder korrigieren Sie bitte den entsprechenden Eintrag"
+
+msgid "Homepage"
+msgstr "Startseite"
+
+msgid "Follow us on"
+msgstr "Folgen Sie uns auf"
+
+msgid "Kid's Menu"
+msgstr "Kinderspeisekarte"
+
+msgid "The page you requested no longer exists or has never existed under this address"
+msgstr "Die von Ihnen angeforderte Seite existiert nicht mehr oder hat nie unter dieser Adresse existiert"
+
+msgid "Wine Menu"
+msgstr "Weinkarte"
+
+msgid "Live Camera"
+msgstr "Live-Kamera"
+
+msgid "Opening Hours"
+msgstr "Öffnungszeiten"
+
+msgid "Beverage Menu"
+msgstr "Getränkekarte"
+
+msgid "Bar Menu"
+msgstr "Barkarte"
+
+msgid "Cocktail Menu"
+msgstr "Cocktailkarte"
+
+msgid "Dessert Menu"
+msgstr "Nachtischkarte"
+
+msgid "Sign Up"
+msgstr "Anmelden"
+
+msgid "enter your email address"
+msgstr "Geben Sie Ihre E-Mail-Adresse ein"
+
+msgid "Stay in Touch"
+msgstr "Bleiben Sie in Kontakt"
+
+msgid "View Menu"
+msgstr "Entdecken Sie unser Menu"
+
+msgid "Call Us"
+msgstr "Rufen Sie uns an"
+
+msgid "Email Us"
+msgstr "Senden Sie uns ein E-Mail"
+
+msgid "Need Help"
+msgstr "Sie brauchen Hilfe"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "Phone for Calls"
+msgstr "Rufnummer für Anrufe"
+
+msgid "Phone For Whats Up"
+msgstr "Rufnummer für Whats Up"
+
+msgid "Facebook mme link"
+msgstr "Facebook mme Link"
+
+msgid "WeChat Id"
+msgstr "WeChat ID"
+
+msgid "Theme Contacts"
+msgstr "Ansprechpartner"
+
+msgid "Contact data for help popup window"
+msgstr "Kontaktdaten fürs ﻿﻿Hilfe-Popup-Fenster"
+
+msgid "DATE & TIME"
+msgstr "DATUM & UHRZEIT"
+
+msgid "Load More"
+msgstr "Mehr laden"
+
+msgid "Reservation"
+msgstr "Reservierung"
+
+msgid "midnight"
+msgstr "Mitternacht"
+
+msgid "Inside"
+msgstr "Innen"
+
+msgid "Seasonal"
+msgstr "Saisonal"
+
+msgid "Entry by Appointment"
+msgstr "Zutritt nur nach Anmeldung"
+
+msgid "Annual"
+msgstr "Jährlich"
+
+msgid "Outside"
+msgstr "Aussen"
+
+msgid "Prefix"
+msgstr "Anrede"
+
+msgid "Lastname"
+msgstr "Nachname"
+
+msgid "Keep up to date on the luxury hotel in the Engadine and all stories around the tower"
+msgstr "Bleiben Sie über das Luxushotel im Engadin und alle Geschichten rund um den Turm auf dem Laufenden"
+
+msgid "Firstname"
+msgstr "Vorname"
+
+msgid "I have read and accept"
+msgstr "Ich habe die Datenschutzbestimmungen"
+
+msgid "the privacy policy"
+msgstr "gelesen und akzeptiere sie"
+
+msgid "History with a modern Spirit"
+msgstr "Tradition mit modernem Geist"
+
+msgid "Background Colo"
+msgstr "Hintergrundfarbe"
+
+msgid "Type of job"
+msgstr "Art der Tätigkeit"
+
+msgid "Career apply link for careers sections"
+msgstr "Bewerbungslink für den Karrierebereich"
+
+msgid "Career apply item"
+msgstr "Bewerbungsobjekt"
+
+msgid "show categories tabs"
+msgstr "Kategorie-Tabs anzeigen"
+
+msgid "No events scheduled in this month"
+msgstr "Keine Events für diesen Monat geplant"
+
+msgid "No %s page set"
+msgstr "Keine %s Seite ist untergegangen"
+
+msgid "This page is the same for both seasons"
+msgstr "Diese Seite ist für beide Jahreszeiten gleich"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "March"
+msgstr "März"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "Last name"
+msgstr "Nachname"
+
+msgid "First name"
+msgstr "Vorname"
+
+msgid "December"
+msgstr "Dezember"
+
+msgid "Today morning"
+msgstr "Heute Morgen"
+
+msgid "Today afternoon"
+msgstr "Heute Nachmittag"
+
+msgid "Tomorrow morning"
+msgstr "Morgen Früh"
+
+msgid "Tomorrow afternoon"
+msgstr "Morgen Nachmittag"
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "Bed"
+msgstr "Bett"
+
+msgid "Learn More"
+msgstr "Erfahre mehr"
+
+msgid "Discover Now"
+msgstr "Jetzt entdecken"
+
+msgid "Terms & Conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+msgid "or"
+msgstr "oder"
+
+msgid "to"
+msgstr "bis"
+
+msgid "Download High Quality Image"
+msgstr "Hochwertiges Bild herunterladen"
+
+msgid "Read More"
+msgstr "Mehr Dazu"
+
+msgid "Apply Online"
+msgstr "Online Bewerben"
+
+msgid "Opening Times"
+msgstr "Öffnungszeiten"
+
+msgid "By continuing to browse or by clicking Accept you agree to first- and third-party cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts."
+msgstr "Wenn sie weiter browsen oder Akzeptieren anklicken, stimmen Sie unseren Datenschutzrichtlinien und dem Speichern von Erstanbieter- und Drittanbieter-Cookies auf Ihrem Gerät zu, um die Seitennavigation zu verbessern und die Nutzung der Seite zu analysieren."
+
+msgid "Read our legal disclaimer"
+msgstr "Mehr dazu in unseren Datenschutzrichtlinien"
+
+msgid "Accept"
+msgstr "Akzeptieren"

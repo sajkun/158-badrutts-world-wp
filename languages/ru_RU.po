@@ -1,0 +1,586 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Summer"
+msgstr "Лето"
+
+msgid "Explore"
+msgstr "Изучить"
+
+msgid "QUARTERLY NEWSLETTER"
+msgstr "ЕЖЕКВАРТАЛЬНЫЕ НОВОСТИ"
+
+msgid "Explore Summer"
+msgstr "Лето"
+
+msgid "Arrival"
+msgstr "Прибытие"
+
+msgid "Winter"
+msgstr "Зима"
+
+msgid "Download Brochure"
+msgstr "Загрузить Брошуру"
+
+msgid "Season"
+msgstr "Сезон"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "Season not set"
+msgstr "Сезон не выбран"
+
+msgid "winter"
+msgstr "зима"
+
+msgid "Search for"
+msgstr "Поиск"
+
+msgid "both"
+msgstr "оба"
+
+msgid "Filter by season"
+msgstr "Выбрать сезон"
+
+msgid "Explore Winter"
+msgstr "Зима"
+
+msgid "Visit our Careers section"
+msgstr "Перейти на страницу о Вакансиях и Карьере"
+
+msgid "Logo for Mobiles"
+msgstr "Логотип для мобильных"
+
+msgid "Theme Header"
+msgstr "Тема Шапки сайта"
+
+msgid "This section is designed to change displaying of header settings"
+msgstr "Этот раздел предназначен для изменения отображения настроек шапки сайта"
+
+msgid "Url for book button in header"
+msgstr "Url для кнопки бронирования в шапке сайта"
+
+msgid "Keep empty to hide this item"
+msgstr "Оставить пустым, чтобы скрыть этот элемент"
+
+msgid "DEPRECATED! for old instances of code, don't use"
+msgstr "УСТАРЕЛО! для старых вариантов кодировки, не использовать"
+
+msgid "Book"
+msgstr "Забронировать"
+
+msgid "Url for summer instance of this site"
+msgstr "Url для летнего варианта этого сайта"
+
+msgid "Url for winter instance of this site"
+msgstr "Url для зимнего варианта этого сайта"
+
+msgid "Explore summer"
+msgstr "Лето"
+
+msgid "Explore winter"
+msgstr "Зима"
+
+msgid "Main Menu (summer)"
+msgstr "Основное меню (лето)"
+
+msgid "Main Menu (winter)"
+msgstr "Основное меню (зима)"
+
+msgid "Mobile Main Menu (winter)"
+msgstr "Мобильное Основное Меню (зима)"
+
+msgid "Mobile Main Menu (summer)"
+msgstr "Мобильное Основное Меню (лето)"
+
+msgid "Mobile Secondary Menu (winter)"
+msgstr "Мобильное Вторичное Меню (зима)"
+
+msgid "Mobile Secondary Menu (summer)"
+msgstr "Мобильное Вторичное Меню (лето)"
+
+msgid "Menu with social links"
+msgstr "Меню с ссылками на социальные сети"
+
+msgid "Top Menu in Header (summer)"
+msgstr "Верхнее Меню в Шапке сайта (лето)"
+
+msgid "Top Menu in Header (winter)"
+msgstr "Верхнее Меню в Шапке сайта (зима)"
+
+msgid "Home"
+msgstr "Главная страница"
+
+msgid "Book Now"
+msgstr "Забронировать сейчас"
+
+msgid "Theme Socials"
+msgstr "Тема социальных сетей"
+
+msgid "Social links for mobile menu and footer"
+msgstr "Ссылки на социальные сети для мобильного меню и подвала сайта"
+
+msgid "Logo in Footer"
+msgstr "Логотип в подвале сайта"
+
+msgid "This section is designed to change displaying of footer settings"
+msgstr "Этот раздел предназначен для отображения изменений в подвале сайта"
+
+msgid "Theme Footer"
+msgstr "Тема подвала сайта"
+
+msgid "Language switcher"
+msgstr "Выбор языка"
+
+msgid "Footer Widget"
+msgstr "Виджет Подвала сайта"
+
+msgid "Copyrights"
+msgstr "Авторское право"
+
+msgid "Address"
+msgstr "Расположение"
+
+msgid "Follow us"
+msgstr "Подписывайтесь на нас"
+
+msgid "Legal Disclaimer Url"
+msgstr "Правовая Оговорка Url"
+
+msgid "Legal Disclaimer"
+msgstr "Правовая Оговорка"
+
+msgid "banner"
+msgstr "баннер"
+
+msgid "url"
+msgstr "url"
+
+msgid "Partner"
+msgstr "Партнёр"
+
+msgid "Season settings"
+msgstr "Сезонные настройки"
+
+msgid "Set Blogs Weather roles"
+msgstr "Установить функции Блога Погоды"
+
+msgid "Save Options"
+msgstr "Сохранить"
+
+msgid "Winter Blog"
+msgstr "Зимний Блог"
+
+msgid "Summer Blog"
+msgstr "Летний Блог"
+
+msgid "Displays booking widget for rooms"
+msgstr "Отображает виджет бронирования номеров"
+
+msgid "Booking room widget"
+msgstr "Виджет бронирования номеров"
+
+msgid "Displays a carousel with rooms images. One image per slide"
+msgstr "Отображает карусель с фотографиями номеров. Одна фотография на слайд"
+
+msgid "Room carousel var 1"
+msgstr "Карусель номеров вар 1"
+
+msgid "DISCOVER THIS ROOM"
+msgstr "ПОДРОБНЕЕ"
+
+msgid "Discover Now"
+msgstr "Подробнее"
+
+msgid "Featured image of a section"
+msgstr "Основная фотография раздела"
+
+msgid "Room details"
+msgstr "Описание"
+
+msgid "Data will be displayed from metabox \"Room data\""
+msgstr "Данные будут отображаться из метабокса \"Данные номеров\""
+
+msgid "Featured Image"
+msgstr "Основная фотография"
+
+msgid "Number of bedrooms"
+msgstr "Количество спален"
+
+msgid "Number of bathrooms"
+msgstr "Количество ванных комнат"
+
+msgid "Max Guests"
+msgstr "Макс. Гостей"
+
+msgid "Square Meter"
+msgstr "Кв. м"
+
+msgid "Square meters"
+msgstr "Кв. м"
+
+msgid "Bedrooms"
+msgstr "Спальни"
+
+msgid "Bedroom"
+msgid_plural "Bedrooms"
+msgstr[0] "Спальня"
+msgstr[1] "Спальни"
+msgstr[2] "Спален"
+
+msgid "Bathroom"
+msgid_plural "Bathrooms"
+msgstr[0] "Ванная комната"
+msgstr[1] "Ванные комнтаы"
+msgstr[2] "Ванных Комнат"
+
+msgid "Bathrooms"
+msgstr "Ванные комнаты"
+
+msgid "or"
+msgstr "или"
+
+msgid "to"
+msgstr "до"
+
+msgid "Bed"
+msgstr "Кровать"
+
+msgid "Square Feet"
+msgstr "Кв. футов"
+
+msgid "Overview"
+msgstr "Общая информация"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Main Hotel Item"
+msgstr "Основной Отельный Элемент"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Button title"
+msgstr "Кнопка заголовка"
+
+msgid "Button url"
+msgstr "Кнопка url"
+
+msgid "Leave this field empty to hide button"
+msgstr "Оставить это поле свободным, чтобы скрыть кнопку"
+
+msgid "Display type"
+msgstr "Тип отображения"
+
+msgid "Fullwidth image"
+msgstr "Фотография по всей ширине"
+
+msgid "Text aligned left"
+msgstr "Текст выровнен по левому краю"
+
+msgid "Text aligned right"
+msgstr "Текст выровнен по правому краю"
+
+msgid "Text below image"
+msgstr "Текст под фотографией"
+
+msgid "Select value"
+msgstr "Выбрать значение"
+
+msgid "Additional classes"
+msgstr "Дополнительные типы"
+
+msgid "Widget Id"
+msgstr "Идентификатор виджета"
+
+msgid "Use this for multiple widgets on the same page"
+msgstr "Использовать это для нескольких виджетов на одной странице"
+
+msgid "Check Availability"
+msgstr "Проверить наличие"
+
+msgid "Departure"
+msgstr "Отъезд"
+
+msgid "Guests"
+msgstr "Гости"
+
+msgid "Rooms"
+msgstr "Номера"
+
+msgid "ROOMS"
+msgstr "Номера"
+
+msgid "Select guests"
+msgstr "Выбрать гостей"
+
+msgid "Adults"
+msgstr "Взрослых"
+
+msgid "Children"
+msgstr "Детей"
+
+msgid "Clear all"
+msgstr "Очистить всё"
+
+msgid "Promo code"
+msgstr "Промокод"
+
+msgid "Image Gallery"
+msgstr "Фотогалерея"
+
+msgid "Gallery Images"
+msgstr "Фотографии Галереи"
+
+msgid "Url for camera"
+msgstr "Url для камеры"
+
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+msgid "It looks like you are lost"
+msgstr "Кажется, вы потерялись"
+
+msgid "let us help you find your way"
+msgstr "позвольте помочь вам найти то, что вы ищите"
+
+msgid "If you tried to access this page through bookmarks, please remove or correct the corresponding entry"
+msgstr "Если вы пытались получить доступ к этой странице через закладки, удалите или исправьте соответствующую запись"
+
+msgid "Homepage"
+msgstr "Главная страница"
+
+msgid "Follow us on"
+msgstr "Подписывайтесь на нас"
+
+msgid "Kid's Menu"
+msgstr "Детское меню"
+
+msgid "The page you requested no longer exists or has never existed under this address"
+msgstr "Страница, которую вы запросили, больше не существует или никогда не существовала по этому адресу"
+
+msgid "Wine Menu"
+msgstr "Винная карта"
+
+msgid "Live Camera"
+msgstr "Веб-камера"
+
+msgid "Opening Hours"
+msgstr "Часы работы"
+
+msgid "Beverage Menu"
+msgstr "Напитки"
+
+msgid "Bar Menu"
+msgstr "Барная Карта"
+
+msgid "Cocktail Menu"
+msgstr "Коктейли"
+
+msgid "Sign Up"
+msgstr "Подписаться"
+
+msgid "enter your email address"
+msgstr "укажите адрес вашей электронной почты"
+
+msgid "Stay in Touch"
+msgstr "Подпишитесь на новостную рассылку"
+
+msgid "View Menu"
+msgstr "Посмотреть Меню"
+
+msgid "Call Us"
+msgstr "Свяжитесь с нами по телефону"
+
+msgid "Email Us"
+msgstr "Пришлите нам электронное письмо"
+
+msgid "Need Help"
+msgstr "Можем ли мы вам помочь"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Phone for Calls"
+msgstr "Телефон для звонков"
+
+msgid "Phone For Whats Up"
+msgstr "Телефон для Whats Up"
+
+msgid "Facebook m.me link"
+msgstr "Ссылка Facebook m.me"
+
+msgid "WeChat Id"
+msgstr "WeChat Id"
+
+msgid "Theme Contacts"
+msgstr "Тема Контакты"
+
+msgid "Contact data for help popup window"
+msgstr "Контактные данные для всплывающего окна"
+
+msgid "DATE & TIME"
+msgstr "ДАТА & ВРЕМЯ"
+
+msgid "Load More"
+msgstr "Показать ещё"
+
+msgid "Reservation"
+msgstr "Бронирование"
+
+msgid "midnight"
+msgstr "полночь"
+
+msgid "Inside"
+msgstr "Внутри"
+
+msgid "Seasonal"
+msgstr "Сезонный"
+
+msgid "Entry by Appointment"
+msgstr "Вход по предварительной записи"
+
+msgid "Annual"
+msgstr "Ежегодный"
+
+msgid "Outside"
+msgstr "Снаружи"
+
+msgid "Prefix"
+msgstr "Обращение"
+
+msgid "Lastname"
+msgstr "Фамилия"
+
+msgid "Keep up to date on the luxury hotel in the Engadine and all stories around the tower"
+msgstr "Оставайтесь в курсе новостей роскошного отеля в долине Энгадин и его знаменитой башни"
+
+msgid "Firstname"
+msgstr "Имя"
+
+msgid "I have read and accept"
+msgstr "Я прочитал и согласен с"
+
+msgid "the privacy policy"
+msgstr "условиями пользования"
+
+msgid "History with a modern Spirit"
+msgstr "Традиции и дух современности"
+
+msgid "Background Colo"
+msgstr "Цвет фона"
+
+msgid "Type of job"
+msgstr "Позиция"
+
+msgid "Career apply link for careers sections"
+msgstr "Ссылка на подачу заявления для раздела Вакансии и Карьера"
+
+msgid "Career apply item"
+msgstr "Элемент подачи заявления"
+
+msgid "show categories tabs"
+msgstr "показать вкладки категорий"
+
+msgid "No events scheduled in this month"
+msgstr "В этом месяце событий и мероприятий не запланировано"
+
+msgid "Dessert Menu"
+msgstr "Десерты"
+
+msgid "HELP"
+msgstr "Помощь"
+
+msgid "Dress Code"
+msgstr "Дресскод"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Kids Menu"
+msgstr "Меню для детей"
+
+msgid "Breakfast Menu"
+msgstr "Завтрак"
+
+msgid "Launch Menu"
+msgstr "Полдник"
+
+msgid "Cigar Menu"
+msgstr "Сигары"
+
+msgid "Read More"
+msgstr "Читать дальше"
+
+msgid "January"
+msgstr "Январь"
+
+msgid "February"
+msgstr "Февраль"
+
+msgid "March"
+msgstr "Март"
+
+msgid "April"
+msgstr "Апрель"
+
+msgid "May"
+msgstr "Май"
+
+msgid "June"
+msgstr "Июнь"
+
+msgid "July"
+msgstr "Июль"
+
+msgid "August"
+msgstr "Август"
+
+msgid "September"
+msgstr "Сентябрь"
+
+msgid "October"
+msgstr "Октбярь"
+
+msgid "November"
+msgstr "Ноябрь"
+
+msgid "December"
+msgstr "Декабрь"
+
+msgid "In Jahresstelle"
+msgstr "Кругло годичная ваканcия"
+
+msgid "In Saisonstelle"
+msgstr "Сезонная Вакансия"
+
+msgid "Learn More"
+msgstr "Подробности"
+
+msgid "Opening Times"
+msgstr "Расписание Работы"
+
+msgid "By continuing to browse or by clicking Accept you agree to first- and third-party cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts."
+msgstr "Оставаясь на нашем сайте или нажав кнопку Принять, вы даете согласие на размещение на своем устройстве файлов cookie нашей организации и третьих лиц cookie позволяют оптимизировать навигацию по сайту, анализировать статистику посещений и помогают в маркетинге."
+
+msgid "Read our legal disclaimer"
+msgstr "Подробнее смотрите legal disclaimer"
+
+msgid "Accept"
+msgstr "Принять"

@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Summer"
+msgstr "Summer"
+
+msgid "Explore Summer"
+msgstr "Explore Summer"
+
+msgid "Winter"
+msgstr "Winter"
+
+msgid "Season"
+msgstr "Season"
+
+msgid "Season not set"
+msgstr "Season not set"
+
+msgid "winter"
+msgstr "winter"
+
+msgid "Search for"
+msgstr "Search for"
+
+msgid "both"
+msgstr "both"
+
+msgid "Filter by season"
+msgstr "Filter by season"
+
+msgid "Explore Winter"
+msgstr "Explore Winter"
+
+msgid "Visit our Careers section"
+msgstr "Visit our Careers section"
+
+msgid "Logo for Mobiles"
+msgstr "Logo for Mobiles"
+
+msgid "Theme Header"
+msgstr "Theme Header"
+
+msgid "This section is designed to change displaying of header settings"
+msgstr "This section is designed to change displaying of header settings"
+
+msgid "Url for book button in header"
+msgstr "Url for book button in header"
+
+msgid "Keep empty to hide this item"
+msgstr "Keep empty to hide this item"
+
+msgid "DEPRECATED! for old instances of code, don't use"
+msgstr "DEPRECATED! for old instances of code, don't use"
+
+msgid "Book"
+msgstr "Book"
+
+msgid "Url for summer instance of this site"
+msgstr "Url for summer instance of this site"
+
+msgid "Url for winter instance of this site"
+msgstr "Url for winter instance of this site"
+
+msgid "Explore summer"
+msgstr "Explore summer"
+
+msgid "Explore winter"
+msgstr "Explore winter"
+
+msgid "Main Menu (summer)"
+msgstr "Main Menu (summer)"
+
+msgid "Main Menu (winter)"
+msgstr "Main Menu (winter)"
+
+msgid "Mobile Main Menu (winter)"
+msgstr "Mobile Main Menu (winter)"
+
+msgid "Mobile Main Menu (summer)"
+msgstr "Mobile Main Menu (summer)"
+
+msgid "Mobile Secondary Menu (winter)"
+msgstr "Mobile Secondary Menu (winter)"
+
+msgid "Mobile Secondary Menu (summer)"
+msgstr "Mobile Secondary Menu (summer)"
+
+msgid "Menu with social links"
+msgstr "Menu with social links"
+
+msgid "Top Menu in Header (summer)"
+msgstr "Top Menu in Header (summer)"
+
+msgid "Top Menu in Header (winter)"
+msgstr "Top Menu in Header (winter)"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Book Now"
+msgstr "Book Now"
+
+msgid "Theme Socials"
+msgstr "Theme Socials"
+
+msgid "Social links for mobile menu and footer"
+msgstr "Social links for mobile menu and footer"
+
+msgid "Logo in Footer"
+msgstr "Logo in Footer"
+
+msgid "This section is designed to change displaying of footer settings"
+msgstr "This section is designed to change displaying of footer settings"
+
+msgid "Theme Footer"
+msgstr "Theme Footer"
+
+msgid "Language switcher"
+msgstr "Language switcher"
+
+msgid "Footer Widget"
+msgstr "Footer Widget"
+
+msgid "Copyrights"
+msgstr "Copyrights"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Follow us"
+msgstr "Follow us"
+
+msgid "Legal Disclaimer Url"
+msgstr "Legal Disclaimer Url"
+
+msgid "Legal Disclaimer"
+msgstr "Legal Disclaimer"
+
+msgid "banner"
+msgstr "banner"
+
+msgid "url"
+msgstr "url"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "Season settings"
+msgstr "Season settings"
+
+msgid "Set Blogs Weather roles"
+msgstr "Set Blogs Weather roles"
+
+msgid "Save Options"
+msgstr "Save Options"
+
+msgid "Winter Blog"
+msgstr "Winter Blog"
+
+msgid "Summer Blog"
+msgstr "Summer Blog"
+
+msgid "Displays booking widget for rooms"
+msgstr "Displays booking widget for rooms"
+
+msgid "Booking room widget"
+msgstr "Booking room widget"
+
+msgid "Displays a carousel with rooms images. One image per slide"
+msgstr "Displays a carousel with rooms images. One image per slide"
+
+msgid "Room carousel var 1"
+msgstr "Room carousel var 1"
+
+msgid "DISCOVER THIS ROOM"
+msgstr "DISCOVER THIS ROOM"
+
+msgid "Featured image of a section"
+msgstr "Featured image of a section"
+
+msgid "Room details"
+msgstr "Room details"
+
+msgid "Data will be displayed from metabox \"Room data\""
+msgstr "Data will be displayed from metabox \"Room data\""
+
+msgid "Featured Image"
+msgstr "Featured Image"
+
+msgid "Number of bedrooms"
+msgstr "Number of bedrooms"
+
+msgid "Number of bathrooms"
+msgstr "Number of bathrooms"
+
+msgid "Max Guests"
+msgstr "Max Guests"
+
+msgid "Square Feet"
+msgstr "Square Feet"
+
+msgid "Bedrooms"
+msgstr "Bedrooms"
+
+msgid "Bathrooms"
+msgstr "Bathrooms"
+
+msgid "Square feet"
+msgstr "Square feet"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Main Hotel Item"
+msgstr "Main Hotel Item"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Button title"
+msgstr "Button title"
+
+msgid "Button url"
+msgstr "Button url"
+
+msgid "Leave this field empty to hide button"
+msgstr "Leave this field empty to hide button"
+
+msgid "Display type"
+msgstr "Display type"
+
+msgid "Fullwidth image"
+msgstr "Fullwidth image"
+
+msgid "Text aligned left"
+msgstr "Text aligned left"
+
+msgid "Text aligned right"
+msgstr "Text aligned right"
+
+msgid "Text below image"
+msgstr "Text below image"
+
+msgid "Select value"
+msgstr "Select value"
+
+msgid "Additional classes"
+msgstr "Additional classes"
+
+msgid "Widget Id"
+msgstr "Widget Id"
+
+msgid "Use this for multiple widgets on the same page"
+msgstr "Use this for multiple widgets on the same page"
+
+msgid "Check availability"
+msgstr "Check availability"
+
+msgid "Departure"
+msgstr "Departure"
+
+msgid "Guests"
+msgstr "Guests"
+
+msgid "Children"
+msgstr "Children"
+
+msgid "Rooms"
+msgstr "Rooms"
+
+msgid "Select guests"
+msgstr "Select guests"
+
+msgid "Adults"
+msgstr "Adults"
+
+msgid "Childrens"
+msgstr "Childrens"
+
+msgid "Clear all"
+msgstr "Clear all"
+
+msgid "Promo code"
+msgstr "Promo code"
+
+msgid "Image Gallery"
+msgstr "Image Gallery"
+
+msgid "Gallery Images"
+msgstr "Gallery Images"
+
+msgid "Url for camera"
+msgstr "Url for camera"
+
+msgid "Page Not Found"
+msgstr "Page Not Found"
+
+msgid "It looks like you are lost"
+msgstr "It looks like you are lost"
+
+msgid "let us help you find your way"
+msgstr "let us help you find your way"
+
+msgid "If you tried to access this page through bookmarks, please remove or correct the corresponding entry"
+msgstr "If you tried to access this page through bookmarks, please remove or correct the corresponding entry"
+
+msgid "Homepage"
+msgstr "Homepage"
+
+msgid "Follow us on"
+msgstr "Follow us on"
+
+msgid "Kid's Menu"
+msgstr "Kid's Menu"
+
+msgid "The page you requested no longer exists or has never existed under this address"
+msgstr "The page you requested no longer exists or has never existed under this address"
+
+msgid "Wine Menu"
+msgstr "Wine Menu"
+
+msgid "Live Camera"
+msgstr "Live Camera"
+
+msgid "Opening Hours"
+msgstr "Opening Hours"
+
+msgid "Beverage Menu"
+msgstr "Beverage Menu"
+
+msgid "Bar Menu"
+msgstr "Bar Menu"
+
+msgid "Cocktail Menu"
+msgstr "Cocktail Menu"
+
+msgid "Sign Up"
+msgstr "Sign Up"
+
+msgid "enter your email address"
+msgstr "enter your email address"
+
+msgid "Stay in Touch"
+msgstr "Stay in Touch"
+
+msgid "View Menu"
+msgstr "Entdecken Sie unser Menu"
+
+msgid "Call Us"
+msgstr "Call Us"
+
+msgid "Email Us"
+msgstr "Email Us"
+
+msgid "Need Help"
+msgstr "Need Help"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Phone for Calls"
+msgstr "Phone for Calls"
+
+msgid "Phone For Whats Up"
+msgstr "Phone For Whats Up"
+
+msgid "Facebook m.me link"
+msgstr "Facebook m.me link"
+
+msgid "WeChat Id"
+msgstr "WeChat Id"
+
+msgid "Theme Contacts"
+msgstr "Theme Contacts"
+
+msgid "Contact data for help popup window"
+msgstr "Contact data for help popup window"
+
+msgid "DATE & TIME"
+msgstr "DATE & TIME"
+
+msgid "Load More"
+msgstr "Load More"
+
+msgid "Reservation"
+msgstr "Reservation"
+
+msgid "midnight"
+msgstr "midnight"
+
+msgid "Inside"
+msgstr "Inside"
+
+msgid "Seasonal"
+msgstr "Seasonal"
+
+msgid "Entry by Appointment"
+msgstr "Entry by Appointment"
+
+msgid "Annual"
+msgstr "Annual"
+
+msgid "Outside"
+msgstr "Outside"
+
+msgid "Prefix"
+msgstr "Prefix"
+
+msgid "Lastname"
+msgstr "Lastname"
+
+msgid "Keep up to date on the luxury hotel in the Engadine and all stories around the tower"
+msgstr "Keep up to date on the luxury hotel in the Engadine and all stories around the tower"
+
+msgid "Firstname"
+msgstr "Firstname"
+
+msgid "I have read and accept"
+msgstr "I have read and accept"
+
+msgid "the privacy policy"
+msgstr "the privacy policy"
+
+msgid "History with a modern Spirit"
+msgstr "History with a modern Spirit"
+
+msgid "Background Colo"
+msgstr "Background Colo"
+
+msgid "Type of job"
+msgstr "Type of job"
+
+msgid "Career apply link for careers sections"
+msgstr "Career apply link for careers sections"
+
+msgid "Career apply item"
+msgstr "Career apply item"
+
+msgid "show categories tabs"
+msgstr "show categories tabs"
+
+msgid "No events sheduled in this month"
+msgstr "No events sheduled in this month"
+
+msgid "Dessert Menu"
+msgstr "Dessert Menu"
+
+msgid "In Jahresstelle"
+msgstr "Year-round Position"
+
+msgid "In Saisonstelle"
+msgstr "Seasonal Position"
